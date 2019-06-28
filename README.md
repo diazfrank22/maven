@@ -1,2 +1,2 @@
 # maven
-MaventoPractice
+MavenToPractice
